@@ -18,3 +18,6 @@ Image : Assigment_1/tm-my-image-model.zip
 Audio : Assigment_1/tm-my-audio-model.zip
 Pose1 : Assigment_1/my-pose-model.zip
 Pose2 : Assigment_1/my-pose-model_2.zip
+
+Few of the screenshots of model testing have been displayed under appropriate labeling in the following document : 
+https://docs.google.com/document/d/1J8elm6DKWPCobN4z-D80x2qYIEG8qNLqxxjfg9BBGc4/edit?usp=sharing
