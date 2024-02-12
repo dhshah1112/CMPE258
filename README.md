@@ -13,4 +13,8 @@ Audio : https://teachablemachine.withgoogle.com/models/6RVIxLiPC/
 Pose1 : https://teachablemachine.withgoogle.com/models/-iisxW1G3/
 Pose2 : https://teachablemachine.withgoogle.com/models/BnjfNKeX_/
 
-Downloaded models link are attached below : 
+Downloaded models are in the repository uder the path : 
+Image : Assigment_1/tm-my-image-model.zip
+Audio : Assigment_1/tm-my-audio-model.zip
+Pose1 : Assigment_1/my-pose-model.zip
+Pose2 : Assigment_1/my-pose-model_2.zip
