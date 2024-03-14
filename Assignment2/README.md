@@ -52,6 +52,4 @@ To use this notebook effectively, follow the instructions in each section. Ensur
 - [Llama GitHub Repository](https://github.com/EleutherAI)
 - [Hugging Face Transformers](https://github.com/huggingface/transformers)
 
-## 📽️ Demo
 
-For a detailed walkthrough of all this repository's features and functionalities, watch our demo video [here](https://drive.google.com/drive/folders/1-RRSZvc7yZLIhhSfTCj08vEMg2faX-cS?usp=sharing).
