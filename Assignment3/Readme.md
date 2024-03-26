@@ -10,7 +10,10 @@ Datasets used :
 2. BSDS Dataset
 3. Titanic Dataset
 4. MovieLens 100k Dataset
-   
+
+Colab button : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhshah1112/CMPE258/blob/main/Assignment3/CMPE258_Assignment3_PartA.ipynb)
+
+
 B) I have performed below various tasks with hugginface transformers api : 
 
 Text classification : Sentiment Analysis 
@@ -25,12 +28,17 @@ Computer vision : Uploaded a photo of Lion and asked the model to perform Object
 Audio : Uploaded an audio asked to retrieve the text from it. 
 Table QA : Uploaded and trained the model on Iris dataset and then built a QA interface for question answering. 
 
+Colab button : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhshah1112/CMPE258/blob/main/Assignment3/CMPE258_Assignment3_PartB.ipynb)
+
+
 C) Used Keras-NLP for various nlp tasks
 
 1. Inference with a pretrained classifier
 2. Fine tuning a pretrained backbone
 3. Fine tuning with user-controlled preprocessing
 4. Fine tuning a custom modes  
+
+Colab button : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhshah1112/CMPE258/blob/main/Assignment3/CMPE258_Assignment3_PartC.ipynb)
 
 
 D) Used Keras-CV for various vision tasks
@@ -41,5 +49,6 @@ Object detection using YOLO model :
 3. Training a image classifier from scratch
 4. Train custom object detection model
 
- 
+ Colab button : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhshah1112/CMPE258/blob/main/Assignment3/CMPE258_Assignment3_PartD.ipynb)
+
 
