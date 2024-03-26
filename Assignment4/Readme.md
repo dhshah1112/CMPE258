@@ -26,5 +26,5 @@ Colab button :
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhshah1112/CMPE258/blob/main/Assignment4/CMPE258_Assignment4_Langchain.ipynb)
 
 I have created a small video demonstrating the working and explaining both of the colabs that I created for this assignment. 
-Video link : 
- 
+
+Video link : https://drive.google.com/file/d/1DwjMWqD6VclODzH90bno_zp4Qjkf0qUJ/view?usp=sharing
