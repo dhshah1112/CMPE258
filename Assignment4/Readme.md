@@ -10,12 +10,14 @@ Colab button : [![Open In Colab](https://colab.research.google.com/assets/colab-
 
 B.) Write demonstrations of various agent types with langchain as colab : 
 There are four types of langchain bots that are used to create AI Agents : 
+
 1. Zero Shot React Agent: Utilizes pre-trained language models to generate responses to unseen tasks without specific training.
 
 2. Conversational React Agent: Maintains conversational context for more natural, sustained dialogue with users.
 
 
 3. React Docstore Agent: Searches a document database to provide informed responses based on stored information.
+(I could not use langchain in this part as importing wikipedia api was not working for me from langchain)
 
 
 4. Self Ask with Search Agent: Performs autonomous searches to gather and use external information for answering queries.
