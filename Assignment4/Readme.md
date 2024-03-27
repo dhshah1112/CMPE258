@@ -17,10 +17,11 @@ There are four types of langchain bots that are used to create AI Agents :
 
 
 3. React Docstore Agent: Searches a document database to provide informed responses based on stored information.
-(I could not use langchain in this part as importing wikipedia api was not working for me from langchain)
+
 
 
 4. Self Ask with Search Agent: Performs autonomous searches to gather and use external information for answering queries.
+
 I demonstrated the working and explaination of all the four bots (AI Agents) in the colab. 
 colab link : https://colab.research.google.com/drive/1JGsCHnEpVqT9Pf_bUdLO8cOasgCFCs9b?usp=sharing
 
