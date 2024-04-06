@@ -12,6 +12,7 @@ colab link : https://colab.research.google.com/drive/1hWKoNq9MioPAUTGJVcb_ob0UEK
 
 D) Write  a colab  pytorch lightening version of the same
 colab link : https://colab.research.google.com/drive/1190q4OGoS_5Hcp5I6tahxoqo5GuRZace?usp=sharing
+
 E) 
 1.Build the same using Tensorflow various variants low level, api, functional, model, builtin 
 2.Write  a colab  tensorflow only from scratch not using high level api  of the same
