@@ -1,5 +1,5 @@
-this is the readme file for CMPE258 Assignment5 
-Assignment description : 
+
+Assignment 5 description : 
 
 A) Write  a colab  numpy only from scratch 3 layer deep neural network for non linear regression . Use proper non linear activation functions and proper number of hidden layer neurons - show the results / loss and epochs training and final output . You will be doing manual backprop and chain rule based gradient propagation 
 colab link : https://colab.research.google.com/drive/1FlhvV662vyTZ4vzbJ2JV4yS41436N3MN?usp=sharing
@@ -32,3 +32,7 @@ Common Instructions for generating all the colabs was to maintain the following 
 -Use 3 variables based on non-linear equation.
 
 -Generate syntetic data using the equation you used and plot using 4-d plot in matplotlib.
+
+
+I have created demo videos of all the 6 parts linked here : 
+https://drive.google.com/drive/folders/1-dTTRwPj_e4ZgTsknnVNV_6SmzsBgz-c?usp=sharing
