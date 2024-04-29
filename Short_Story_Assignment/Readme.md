@@ -6,7 +6,7 @@ This assignment involved summarizing a research paper titled "Beyond Accuracy: E
 ## Deliverables
 
 ### Summary Paper
-The task was to condense the survey paper into a succinct summary using original language, complemented by a personal analysis of the findings. This summary was intended to capture the essence of the research while reflecting a deep understanding of the material.
+The task was to condense the survey paper into a succinct summary using original language, complemented by a personal analysis of the findings. This summary was intended to capture the essence of the research while reflecting a deep understanding of the material. The paper I wrote is available [here](https://drive.google.com/file/d/1oPMF9OP4V2DZJ4aavcWNu2lZSXXmOoFN/view?usp=drive_link)
 
 ### Medium Article
 The objective here was to craft an engaging and informative article suitable for publication on Medium. The article, titled ["Unveiling the Thought Process of AI: A Deep Dive into the Reasoning of Large Language Models"](https://medium.com/@dhshah1112/unveiling-the-thought-process-of-ai-a-deep-dive-into-the-reasoning-of-large-language-models-b0472a6ec44e) focuses on the architecture, ablation studies, and metrics of LLMs. It integrates visuals from the original paper and avoids complex technical jargon and mathematics, making it accessible to a broader audience.
