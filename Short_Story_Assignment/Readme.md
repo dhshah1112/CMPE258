@@ -1,7 +1,7 @@
 # Short Story Assignment : Summary of a research (survey) paper
 
 ## Overview
-This assignment involved summarizing a research paper titled "Beyond Accuracy: Evaluating the Reasoning Behavior of Large Language Models - A Survey," which examines whether recent Large Language Models (LLMs) can mimic human reasoning and thinking processes. The project was divided into four key deliverables: a summary paper, a Medium article, a PowerPoint presentation (PPT), and a video presentation.
+This assignment involved summarizing a research paper titled "Beyond Accuracy: Evaluating the Reasoning Behavior of Large Language Models - A Survey," which examines whether recent Large Language Models (LLMs) can mimic human reasoning and thinking processes. The project was divided into four key deliverables: a summary paper, a Medium article, a PowerPoint presentation (PPT), and a video presentation. We had to make sure that we have our topic lockedin so professor can approve the topic in this [spreadsheet](https://docs.google.com/spreadsheets/d/1rB5PVINkWlICefwzG1HioCZQCYJJJcCCxOJHXipctfM/edit#gid=634831967)
 
 ## Deliverables
 
