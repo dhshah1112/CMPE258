@@ -18,7 +18,7 @@ The presentation required a detailed overview of the paper's findings in a visua
 This component involved creating a video that explains the topic in detail, using the PowerPoint slides as a visual aid. The video, intended to last between 15-25 minutes, serves as an explanatory session, aiming to elucidate the paper's findings and the presenter's understanding of them. The video can be viewed [here](https://youtu.be/4G8TpmxEo90?si=G_4XKewSwvoe2Zay).
 
 ## Resources
-- [Survey Paper](https://arxiv.org/pdf/2404.01869) 
+- [Original Survey Paper](https://arxiv.org/pdf/2404.01869) 
 - [Summary Paper ](https://drive.google.com/file/d/1oPMF9OP4V2DZJ4aavcWNu2lZSXXmOoFN/view?usp=drive_link)
 -  [Medium Article](https://medium.com/@dhshah1112/unveiling-the-thought-process-of-ai-a-deep-dive-into-the-reasoning-of-large-language-models-b0472a6ec44e)
 - [PowerPoint Presentation](https://www.slideshare.net/slideshow/dhruvalshahcmpe258shortstorypptpptx/267570651)
