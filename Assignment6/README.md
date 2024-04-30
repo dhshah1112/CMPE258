@@ -52,5 +52,5 @@ A comprehensive video walkthrough is available that covers the following:
 
 ## Deliverables
 - [Colab notebook 1](https://colab.research.google.com/drive/198Dkwbnmb5uBaCRMvWlCgeGEDUKmrPg2?usp=sharing)
-- [Colab notebook 2](https://colab.research.google.com/drive/109Tz9_W8RNsFPmaJKOK1QK2n597Z2qIb?usp=sharing)
+- [Colab notebook 2](https://colab.research.google.com/drive/109Tz9_W8RNsFPmaJKOK1QK2n597Z2qIb?usp=sharing)     
 - [Demo video](https://drive.google.com/drive/folders/1OigcQ4XAF6XiWc39pStYb194x_J5n2gP?usp=drive_link)
