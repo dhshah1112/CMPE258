@@ -51,6 +51,9 @@ A comprehensive video walkthrough is available that covers the following:
 - Display of the final outputs generated.
 
 ## Deliverables
-- [Colab notebook 1](https://colab.research.google.com/drive/198Dkwbnmb5uBaCRMvWlCgeGEDUKmrPg2?usp=sharing)
-- [Colab notebook 2](https://colab.research.google.com/drive/109Tz9_W8RNsFPmaJKOK1QK2n597Z2qIb?usp=sharing)     
+- Part 1 Colab : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhshah1112/CMPE258/blob/main/Assignment6/NeuralNetworksWithKeras_Part1.ipynb)
+
+- Part 2 Colab : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhshah1112/CMPE258/blob/main/Assignment6/NeuralNetworksWithKeras_Part2.ipynb)
+
+
 - [Demo video](https://drive.google.com/drive/folders/1OigcQ4XAF6XiWc39pStYb194x_J5n2gP?usp=drive_link)
