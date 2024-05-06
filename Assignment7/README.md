@@ -13,7 +13,7 @@ This section requires the creation of simple Google Colab notebooks to demonstra
 
 Example Task: Implement basic transfer learning for a classification task (e.g., classifying cats/dogs or dog breeds).
 
-Notebooks: [Transfer Learning Notebook](https://colab.research.google.com/drive/1Y2XkqqYIXeCgixRaIWMhEXKnife6paDs?usp=sharing)
+Notebook: [Transfer Learning Notebook](https://colab.research.google.com/drive/1Y2XkqqYIXeCgixRaIWMhEXKnife6paDs?usp=sharing)
 
 
 
